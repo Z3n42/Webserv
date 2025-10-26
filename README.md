@@ -72,19 +72,16 @@ This project was collaboratively developed by three developers:
 <img src="https://avatars.githubusercontent.com/Z3n42" width="100px;" alt="Iñigo Gonzalez"/><br />
 <b>Iñigo Gonzalez</b><br />
 <a href="https://github.com/Z3n42">@ingonzal</a><br />
-<i>Core Architecture</i>
 </td>
 <td align="center" width="33%">
 <img src="https://avatars.githubusercontent.com/manu-garcia" width="100px;" alt="Manu Garcia"/><br />
 <b>Manu Garcia</b><br />
 <a href="https://github.com/manu-garcia">@manugarc</a><br />
-<i>HTTP Parsing & CGI</i>
 </td>
 <td align="center" width="33%">
 <img src="https://avatars.githubusercontent.com/mikgarci42" width="100px;" alt="Mik Garcia"/><br />
 <b>Mik Garcia</b><br />
 <a href="https://github.com/mikgarci42">@mikgarci</a><br />
-<i>Request Handling</i>
 </td>
 </tr>
 </table>
